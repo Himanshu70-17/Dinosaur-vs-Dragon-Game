@@ -1,0 +1,72 @@
+Dinosaur vs Dragon Game
+
+Description  
+Dinosaur vs. Dragon is an exciting, fast-paced browser-based game built using HTML, CSS, and JavaScript. The objective of the game is to protect a dinosaur from an aggressive dragon chasing it. Players must skillfully dodge the dragon and avoid obstacles to keep the dinosaur safe while collecting points. With increasing difficulty over time, the game provides a thrilling challenge for players of all ages.
+
+
+Table of Contents
+1.	Features 
+2.	Installation
+3.	How to Play
+4.	Screenshots
+5.	Technologies Used
+6.	License
+
+
+Features
+
+- Challenging Gameplay: Keep the dinosaur alive while avoiding the dragon and obstacles.
+- Responsive Controls: Works seamlessly on both desktop and mobile devices.
+- Increasing Difficulty: The game becomes more challenging the longer you survive.
+- Score System: Track your score based on how long you can protect the dinosaur and avoid obstacles.
+- Simple & Fun: Easy to play but hard to master.
+
+
+Installation
+
+To run the game locally, follow these steps:
+1. Clone the repository:
+    git clone https://github.com/yourusername/dinosaur-vs-dragon.git
+2. Navigate to the project directory:
+    cd dinosaur-vs-dragon
+3. Open the game:  
+    Launch the game by opening the `index.html` file in your web browser.
+
+
+How to Play
+
+- Objective:  
+  The goal is to protect the dinosaur from the chasing dragon by avoiding obstacles that come its way.
+
+- Controls:  
+  - Use the Arrow Keys (or touch on mobile) to move the dinosaur up, down, left, or right.
+  
+- Gameplay:  
+  - Keep the dinosaur moving to dodge both the dragon and other obstacles.
+  - As the game progresses, the speed of the dragon increases, making it more difficult to avoid getting caught.
+
+- Winning:  
+  - Survive as long as you can and achieve the highest score possible by staying ahead of the dragon and avoiding hazards.
+
+
+Screenshots
+ 
+  
+
+
+
+
+Technologies Used
+
+- HTML5: Used for the structure and layout of the game.
+- CSS3: For styling the game elements and creating animations.
+- JavaScript: Implements the core game logic, interactions, and obstacle generation.
+
+
+License
+
+This project is licensed under the MIT License. 
+
+
+
+
